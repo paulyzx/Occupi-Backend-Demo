@@ -2,6 +2,8 @@
 
 This is the backend API for the Occupi demo application. It is built with Node.js, Express, and TypeScript, and uses TypeORM for database access.
 
+[Technical Assessment is here](https://github.com/paulyzx/Occupi-Backend-Demo/blob/main/TechnicalAssessment.md)
+
 ## Features
 
 - Company, Customer, and Payment management
